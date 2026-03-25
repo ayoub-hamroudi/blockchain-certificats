@@ -1,0 +1,46 @@
+[
+  {
+    "id": "3fc83f67-a7c5-4108-ae5c-2a807033e602",
+    "name": "Ayoub Jad",
+    "email": "ayoub.jad@univh2c.etu",
+    "walletAddress": "0xCe98105Fe0deE053f9bF1FC21326A7b3C1D41959",
+    "role": "student",
+    "status": "active",
+    "blockchainSynced": true,
+    "blockchainTxHash": "0xf3d5022fcc95e95a5b7eed54eab27052d10a9d06c159c25b749ffebf1e27619f",
+    "createdAt": "2026-03-25T10:01:25.820Z",
+    "updatedAt": "2026-03-25T10:01:25.820Z"
+  },
+  {
+    "id": "8b90efa1-e7f9-46fa-ac0d-40d240b05d87",
+    "name": "Mohamed Nafii",
+    "email": "mohamed.nafii@univh2c.edu",
+    "walletAddress": "0xCc2E71Ec877fe568D7e2a77bE69d7df14F0F3619",
+    "role": "teacher",
+    "status": "active",
+    "blockchainSynced": true,
+    "blockchainTxHash": "0x92a462bb7ac06c230490dfc767bf076db311e3c1ef965ff4c45e47b7287ef1b0",
+    "createdAt": "2026-03-21T15:01:01.426Z",
+    "updatedAt": "2026-03-21T15:01:01.426Z"
+  },
+  {
+    "id": "8d8acf0b-7097-4c71-8e5a-83138ca47233",
+    "name": "Mohamed Amin",
+    "email": "mohamed.amin@univh2c.etu",
+    "walletAddress": "0x8541C8BE9Ff5398b3fECe33634421726dBdabEDA",
+    "role": "student",
+    "status": "active",
+    "createdAt": "2026-03-21T13:55:21.628Z",
+    "updatedAt": "2026-03-21T14:48:05.252Z"
+  },
+  {
+    "id": "a8eecd4e-c9b2-4c54-81e9-f912ccf7d56e",
+    "name": "Prof Ahmed Alaoui",
+    "email": "ahmed.alaoui@university.edu",
+    "walletAddress": "0x99C5dc6B27c9180a78C8789Be3394f75F52D23A6",
+    "role": "teacher",
+    "status": "active",
+    "createdAt": "2026-03-21T13:25:17.046Z",
+    "updatedAt": "2026-03-21T13:25:17.046Z"
+  }
+]
